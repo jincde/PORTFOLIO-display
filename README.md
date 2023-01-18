@@ -22,7 +22,7 @@
 
 [리액트](https://github.com/FE-campus/toy-project/pull/49)
 
-![클론코딩](README.assets/클론코딩.gif)
+![클론코딩](README.assets/clone.gif)
 
 ## 1. 피어 오브 갓 판매 페이지 디자인
 
