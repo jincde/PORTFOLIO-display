@@ -8,6 +8,14 @@
 
 <br>
 
+## 0-1. 치킨컬리(마켓컬리 클론)
+
+[배포 서비스 시연](https://www.youtube.com/watch?v=9K4vOyYXk3g)
+
+![CK-main](README.assets/CK-main.png)
+
+<br>
+
 ## 1. 피어 오브 갓 판매 페이지 디자인
 
 ![fearofgod_final](README.assets/fearofgod_final.gif)
@@ -55,9 +63,3 @@
 ![03_회원가입](README.assets/signup3.gif)
 
 <br>
-
-## 8. 치킨컬리 (마켓컬리 클론)
-
-[배포 서비스 시연 영상](https://www.youtube.com/watch?v=9K4vOyYXk3g)
-
-![스크린샷 2023-01-18 오후 12.24.03](README.assets/CK-main.png)
