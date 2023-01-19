@@ -8,7 +8,7 @@
 
 <br>
 
-## 0-1. 치킨컬리(마켓컬리 클론)
+## 0-1. 치킨컬리
 
 [배포 서비스 시연](https://www.youtube.com/watch?v=9K4vOyYXk3g)
 
